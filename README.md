@@ -1,6 +1,6 @@
 # Master Thesis - Supplementary Materials
 
-This repository contains supplementary materials for Design and Evaluation of Digital Instructions with Corrective Feedback for Exoskeleton Donning.
+This repository contains supplementary materials for the master thesis: **Design and Evaluation of Digital Instructions with Corrective Feedback for Exoskeleton Donning.**
 
 ## Repository Contents
 
@@ -20,4 +20,4 @@ This repository contains supplementary materials for Design and Evaluation of Di
 ### Study Materials
 
 - **Study_Script.pdf**  
-  Contains the study protocol, experimental procedures, and instructions used during data collection
+  Contains the study script used during data collection across both studies
